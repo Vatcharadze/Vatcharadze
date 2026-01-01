@@ -15,13 +15,6 @@
 
 ---
 
-## 💻 Projects
-
-- [DevOps Tools Installer for Linux](https://github.com/Vatcharadze/DevOps-Tools-For-Linux)  
-  Bash script that installs essential DevOps tools on Linux automatically.
-
----
-
 ## 🏷️ Badges
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange) 
@@ -31,17 +24,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Dato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vatcharadze&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatcharadze&layout=compact&theme=dark)
-
----
-
 ## 📫 Contact
 
-- Email: your_email@gmail.com  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- Email: dato.vatcharadze@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/davit-vatcharadze-632288288/](https://www.linkedin.com/in/davit-vatcharadze-632288288/)  
 - GitHub: [https://github.com/Vatcharadze](https://github.com/Vatcharadze)
 
 ---
