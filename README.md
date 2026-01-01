@@ -6,7 +6,7 @@
 
 ## 🛠 Skills
 
-- **Version Control:** Git / GitHub  
+- **Version Control:** Git / GitHub / GitLab  
 - **Operating System:** Linux  
 - **Scripting & Automation:** Bash  
 - **Containerization:** Docker  
