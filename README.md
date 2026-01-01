@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dato Vatcharadze
+# Hi 👋, I'm Davit Vatcharadze
 
 💻 DevOps Enthusiast | Linux | Bash Scripting | Git | Docker | Hosting | Build Tools  
 
