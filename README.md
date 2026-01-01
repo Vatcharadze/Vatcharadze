@@ -4,26 +4,6 @@
 
 ---
 
-## 🛠 Skills
-
-- **Version Control:** Git / GitHub / GitLab  
-- **Operating System:** Linux  
-- **Scripting & Automation:** Bash  
-- **Containerization:** Docker  
-- **Hosting / Deployment:** Web hosting, server setup basics  
-- **Build Tools & Automation:** Scripts, compiling  
-
----
-
-## 🏷️ Badges
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange) 
-![Bash](https://img.shields.io/badge/Bash-Script-blue) 
-![Docker](https://img.shields.io/badge/Docker-Installed-lightblue) 
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-
----
-
 ## 📫 Contact
 
 - Email: dato.vatcharadze@gmail.com  
@@ -33,7 +13,4 @@
 ---
 
 ## ⚡ About Me
-
-- Passionate about **automating tasks** and building DevOps pipelines.  
-- Learning and experimenting with **Linux, Docker, Git, and hosting**.  
 - Always exploring new **DevOps tools and cloud technologies**.
