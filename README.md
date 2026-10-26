@@ -9,7 +9,7 @@
 - Email: dato.vatcharadze@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/davitvatcharadze/](https://www.linkedin.com/in/davitvatcharadze/)  
 - GitHub: [https://github.com/Vatcharadze](https://github.com/Vatcharadze)
-- Blog: [https://vatcharadze.github.io/)
+- Blog: [https://vatcharadze.github.io/](https://vatcharadze.github.io/)
 
 ---
 
