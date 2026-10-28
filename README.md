@@ -15,5 +15,3 @@ I'm passionate about automating infrastructure and making deployments repeatable
 - 💼 LinkedIn: [davitvatcharadze](https://www.linkedin.com/in/davitvatcharadze/)
 - 🐙 GitHub: [Vatcharadze](https://github.com/Vatcharadze)
 - ✍️ Blog: [vatcharadze.github.io](https://vatcharadze.github.io/)
-
----
