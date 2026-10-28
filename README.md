@@ -7,6 +7,8 @@
 ## ⚡ About Me
 I'm passionate about automating infrastructure and making deployments repeatable, reliable, and boring (in a good way). I'm always exploring new DevOps tools and cloud technologies, and I learn best by building real projects.
 
+---
+
 ## 📫 Let's Connect
  
 - 📧 Email: [dato.vatcharadze@gmail.com](mailto:dato.vatcharadze@gmail.com)
