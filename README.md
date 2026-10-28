@@ -1,17 +1,17 @@
 # Hi 👋, I'm Davit Vatcharadze
 
-💻 DevOps Enthusiast
-
----
-
-## 📫 Contact
-
-- Email: dato.vatcharadze@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/davitvatcharadze/](https://www.linkedin.com/in/davitvatcharadze/)  
-- GitHub: [https://github.com/Vatcharadze](https://github.com/Vatcharadze)
-- Blog: [https://vatcharadze.github.io/](https://vatcharadze.github.io/)
+💻 Computer Science Student | DevOps Engineer
 
 ---
 
 ## ⚡ About Me
-- Always exploring new **DevOps tools and cloud technologies**.
+I'm passionate about automating infrastructure and making deployments repeatable, reliable, and boring (in a good way). I'm always exploring new DevOps tools and cloud technologies, and I learn best by building real projects.
+
+## 📫 Let's Connect
+ 
+- 📧 Email: [dato.vatcharadze@gmail.com](mailto:dato.vatcharadze@gmail.com)
+- 💼 LinkedIn: [davitvatcharadze](https://www.linkedin.com/in/davitvatcharadze/)
+- 🐙 GitHub: [Vatcharadze](https://github.com/Vatcharadze)
+- ✍️ Blog: [vatcharadze.github.io](https://vatcharadze.github.io/)
+
+---
